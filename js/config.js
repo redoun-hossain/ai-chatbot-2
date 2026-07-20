@@ -1,6 +1,6 @@
 const CONFIG = {
-    WEBHOOK_TEST_URL: 'https://arfinsami178.app.n8n.cloud/webhook-test/34ddc073-f07e-4ef6-9c64-a41e2613569c',
-    WEBHOOK_PROD_URL: 'https://arfinsami178.app.n8n.cloud/webhook/34ddc073-f07e-4ef6-9c64-a41e2613569c',
+    WEBHOOK_TEST_URL: 'https://n8n.srv1106977.hstgr.cloud/webhook-test/34ddc073-f07e-4ef6-9c64-a41e2613569c',
+    WEBHOOK_PROD_URL: 'https://n8n.srv1106977.hstgr.cloud/webhook/34ddc073-f07e-4ef6-9c64-a41e2613569c',
     USE_TEST: true,
     VERSION: 'Version-2.3',
     get WEBHOOK_URL() {
